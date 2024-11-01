@@ -1,0 +1,11 @@
+id: 9a74c023-c1a4-4c63-9d99-4cf984cfe36d
+title: Course Title
+level: beginner
+description: Course Description 
+objectives: Course Objectives
+prerequisites: Course Prerequisites
+contacts:
+  - displayName: dmitrivMS    
+    affiliation:
+    pictureUrl:
+    homePageUrl: github.com/dmitrivMS/ttest
